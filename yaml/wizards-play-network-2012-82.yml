@@ -1,0 +1,112 @@
+---
+object: card
+id: 41422a18-1c35-4dac-b159-a323ed5736de
+oracle_id: c804157e-2911-4973-83bf-f5befc09065d
+multiverse_ids: []
+tcgplayer_id: 71272
+cardmarket_id: 253190
+name: Nearheath Stalker
+lang: en
+released_at: '2012-01-01'
+uri: https://api.scryfall.com/cards/41422a18-1c35-4dac-b159-a323ed5736de
+scryfall_uri: https://scryfall.com/card/pw12/82/nearheath-stalker?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/1/41422a18-1c35-4dac-b159-a323ed5736de.jpg?1677544027
+  normal: https://cards.scryfall.io/normal/front/4/1/41422a18-1c35-4dac-b159-a323ed5736de.jpg?1677544027
+  large: https://cards.scryfall.io/large/front/4/1/41422a18-1c35-4dac-b159-a323ed5736de.jpg?1677544027
+  png: https://cards.scryfall.io/png/front/4/1/41422a18-1c35-4dac-b159-a323ed5736de.png?1677544027
+  art_crop: https://cards.scryfall.io/art_crop/front/4/1/41422a18-1c35-4dac-b159-a323ed5736de.jpg?1677544027
+  border_crop: https://cards.scryfall.io/border_crop/front/4/1/41422a18-1c35-4dac-b159-a323ed5736de.jpg?1677544027
+mana_cost: "{4}{R}"
+cmc: 5.0
+type_line: Creature — Vampire Rogue
+oracle_text: Undying (When this creature dies, if it had no +1/+1 counters on it,
+  return it to the battlefield under its owner's control with a +1/+1 counter on it.)
+power: '4'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Undying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 380cde80-8b8d-47c7-847f-aa4eeb388b43
+set: pw12
+set_name: Wizards Play Network 2012
+set_type: promo
+set_uri: https://api.scryfall.com/sets/380cde80-8b8d-47c7-847f-aa4eeb388b43
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apw12&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pw12?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/41422a18-1c35-4dac-b159-a323ed5736de/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac804157e-2911-4973-83bf-f5befc09065d&unique=prints
+collector_number: '82'
+digital: false
+rarity: rare
+watermark: wotc
+flavor_text: '"Do not speak of this to the elders. They look unfavorably upon my indulgences."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steve Prescott
+artist_ids:
+- a1139fb8-41f5-4a9e-9a74-f662e1a23b35
+illustration_id: 596907ec-7276-4f97-8714-5d30cac3b25d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- wizardsplaynetwork
+edhrec_rank: 21324
+penny_rank: 12737
+prices:
+  usd: 
+  usd_foil: '0.23'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.02'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nearheath+Stalker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nearheath+Stalker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nearheath+Stalker
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/71272?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nearheath+Stalker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nearheath+Stalker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
